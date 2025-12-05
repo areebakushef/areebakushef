@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="bg.png" width="100%" />
+  <img src="bg1.png" width="100%" />
 </p>
 
 ---
