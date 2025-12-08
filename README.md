@@ -10,7 +10,7 @@
 > *To transform creative ideas into innovative, scalable solutions that make a real impact.*
 
 
-## **About me**
+## 🫧**About me**
 I’m a AI/ML Engineer & Backend Developer. The main motivation is turning sparks of creativity into elegant, logical code that brings ideas to life. By blending colorful imagination with structured thinking, I build solutions that are both innovative and impactful, which makes me a problem solver.
 <!-- Typing Text Overlay -->
 <p align="center">
